@@ -1,5 +1,5 @@
 apiVersion: v2
-name: helm-guestbook
+name: helm-guestbook-5tfyt6y3egv3jgu3te37gbh3uygdy37gyd3ge3iujei3n-5tfyt6y3egv3jgu3te37gbh3uygdy37gyd3ge3iujei3n
 description: A Helm chart for Kubernetes
 
 # A chart can be either an 'application' or a 'library' chart.
